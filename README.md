@@ -22,7 +22,7 @@ Automated Module:
 
 Instructions to run Petstore Test Suite:
 ----------------------
-- Clone this project from feature branch
+- Clone this project from feature branch (pet/Rahul-CBATest)
 -  PreRequisite - Maven (mvn) installed in system.
 Run In IDE
 ----------------------
